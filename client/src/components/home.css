@@ -1,0 +1,27 @@
+.mainContainer{
+  max-width: 70%;
+  margin: auto;
+}
+.cardMain{
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    grid-gap: 5%;
+    margin-top:10px;
+}
+.songsList{
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  text-align: left;
+  border: 1px solid black;
+  padding: 7px;
+}
+.allsongs{
+  display: grid;
+  grid-template-columns: 20% 30% 30% 20%;
+  text-align: left;
+  padding: 5px;
+}
+
+.page-link{
+  cursor: pointer;
+}

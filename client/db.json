@@ -1,0 +1,145 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "title": "Satyameva Jayate 2",
+      "tracks": "06 Tracks",
+      "image":"https://a10.gaanacdn.com/gn_img/albums/R7vKX66Wmr/vKX67RxgWm/size_l_1637650771.webp",
+      "song_lists": [
+        {
+          "name": "Meri Zindagi Hai Tu",
+          "singer": "Jubin Nautial",
+          "duration": "04:44"
+        },
+        {
+          "name": "Tenu Lehenga",
+          "singer": "Jas Malik",
+          "duration": "04:07"
+        },
+        {
+          "name": "Kusu Kusu",
+          "singer": "Dev Negi",
+          "duration": "04:44"
+        },
+        {
+          "name": "Jann Gann Mann",
+          "singer": "B Parak",
+          "duration": "04:44"
+        },
+        {
+          "name": "Maa Sherawali",
+          "singer": "Payal Dev",
+          "duration": "03:44"
+        },
+        {
+          "name": "Jann Gann Mann (Reprise)",
+          "singer": "Arko",
+          "duration": "02:13"
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "id": 2,
+      "title": "Pushpa The Rise Part - 01 (Hindi)",
+      "tracks": "03 Tracks",
+      "image":"https://a10.gaanacdn.com/gn_img/albums/R7vKX6WmrP/vKX6oPGgWm/size_l_1639459141.webp",
+      "song_lists": [
+        {
+          "name": "Srivali",
+          "singer": "Javed Ali",
+          "duration": "04:44"
+        },
+        {
+          "name": "Oo Bolega Oo Oo Bolega",
+          "singer": "Kanika Kapoor, Devi Sri Prasad",
+          "duration": "04:07"
+        },
+        {
+          "name": "Sammi Sammi",
+          "singer": "Sunidhi Chauhan, Devi Sri Prasad",
+          "duration": "04:44"
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "id": 3,
+      "title": "RRR",
+      "tracks": "05 Tracks",
+      "image":"https://a10.gaanacdn.com/gn_img/albums/9MAWe97WyJ/AWe9jEmDWy/size_l_1641193257.webp",
+      "song_lists": [
+        {
+          "name": "Naacho Naacho",
+          "singer": "Vishal Mishra",
+          "duration": "04:44"
+        },
+        {
+          "name": "Dosti",
+          "singer": "Jas Malik",
+          "duration": "04:07"
+        },
+        {
+          "name": "Kusu Kusu",
+          "singer": "Dev Negi",
+          "duration": "04:44"
+        },
+        {
+          "name": "Jann Gann Mann",
+          "singer": "B Parak",
+          "duration": "04:44"
+        },
+        {
+          "name": "Maa Sherawali",
+          "singer": "Payal Dev",
+          "duration": "03:44"
+        },
+        {
+          "name": "Jann Gann Mann (Reprise)",
+          "singer": "Arko",
+          "duration": "02:13"
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "id": 4,
+      "title": "Shershaah",
+      "tracks": "06 Tracks",
+      "image":"https://a10.gaanacdn.com/gn_img/albums/10q3Zj1352/q3ZR6q4035/size_l_1629048201.webp",
+      "song_lists": [
+        {
+          "name": "Raataan Lambiyan",
+          "singer": "Jubin Nautial",
+          "duration": "04:44"
+        },
+        {
+          "name": "Tenu Lehenga",
+          "singer": "Jas Malik",
+          "duration": "04:07"
+        },
+        {
+          "name": "Kusu Kusu",
+          "singer": "Dev Negi",
+          "duration": "04:44"
+        },
+        {
+          "name": "Jann Gann Mann",
+          "singer": "B Parak",
+          "duration": "04:44"
+        },
+        {
+          "name": "Maa Sherawali",
+          "singer": "Payal Dev",
+          "duration": "03:44"
+        },
+        {
+          "name": "Jann Gann Mann (Reprise)",
+          "singer": "Arko",
+          "duration": "02:13"
+        }
+      ],
+      "__v": 0
+    }
+  ]
+}
